@@ -1,0 +1,16 @@
+{
+  "name": "syracuse-brewmap",
+  "version": "1.0.0",
+  "description": "An interactive map of brewpubs in the Syracuse NY area.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "Daniel Otis",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
